@@ -1,6 +1,7 @@
 # Greek-Default
 "Inflation-Default Trade-off Without a Nominal Anchor: The Case of Greece", joint work with Enes Sunel, https://www.sciencedirect.com/science/article/pii/S1094202520300338
 1) Description of files for table and figure replications:
+
     a. Solving model for CCD economy (Column 4 of Table 2 in the manuscript):
         i. Compile and run file CCD.f90
     b. Solving model for MCD economy (Column 2 of Table 2 in the manuscript)
